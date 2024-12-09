@@ -1,4 +1,5 @@
-{
+
+{
   "dns": {
     "independent_cache": true,
     "rules": [],
@@ -52,9 +53,9 @@
         "type": "salamander",
         "password": "hanis"
       },
-      "server": "2a03:b0c0:3:d0::136e:1001",
+      "server": "2a03:b0c0:3:f0::3b13:e000",
       "password": "hanis",
-      "server_port": 443,
+      "server_port": 2083,
       "tls": {
         "alpn": ["h3"],
         "enabled": true,
